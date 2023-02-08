@@ -1,0 +1,15 @@
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskOne\bin\Debug\net6.0\TaskOne.exe
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskOne\bin\Debug\net6.0\TaskOne.deps.json
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskOne\bin\Debug\net6.0\TaskOne.runtimeconfig.json
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskOne\bin\Debug\net6.0\TaskOne.dll
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskOne\bin\Debug\net6.0\TaskOne.pdb
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskOne\obj\Debug\net6.0\TaskOne.csproj.AssemblyReference.cache
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskOne\obj\Debug\net6.0\TaskOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskOne\obj\Debug\net6.0\TaskOne.AssemblyInfoInputs.cache
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskOne\obj\Debug\net6.0\TaskOne.AssemblyInfo.cs
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskOne\obj\Debug\net6.0\TaskOne.csproj.CoreCompileInputs.cache
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskOne\obj\Debug\net6.0\TaskOne.dll
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskOne\obj\Debug\net6.0\refint\TaskOne.dll
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskOne\obj\Debug\net6.0\TaskOne.pdb
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskOne\obj\Debug\net6.0\TaskOne.genruntimeconfig.cache
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskOne\obj\Debug\net6.0\ref\TaskOne.dll
