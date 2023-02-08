@@ -1,0 +1,15 @@
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskThree\bin\Debug\net6.0\TaskThree.exe
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskThree\bin\Debug\net6.0\TaskThree.deps.json
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskThree\bin\Debug\net6.0\TaskThree.runtimeconfig.json
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskThree\bin\Debug\net6.0\TaskThree.dll
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskThree\bin\Debug\net6.0\TaskThree.pdb
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskThree\obj\Debug\net6.0\TaskThree.csproj.AssemblyReference.cache
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskThree\obj\Debug\net6.0\TaskThree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskThree\obj\Debug\net6.0\TaskThree.AssemblyInfoInputs.cache
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskThree\obj\Debug\net6.0\TaskThree.AssemblyInfo.cs
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskThree\obj\Debug\net6.0\TaskThree.csproj.CoreCompileInputs.cache
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskThree\obj\Debug\net6.0\TaskThree.dll
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskThree\obj\Debug\net6.0\refint\TaskThree.dll
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskThree\obj\Debug\net6.0\TaskThree.pdb
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskThree\obj\Debug\net6.0\TaskThree.genruntimeconfig.cache
+D:\Все о гите\Знакомство с языками программирования (семинары)\Seminari\DZ\DZ_2_Seminara\TaskThree\obj\Debug\net6.0\ref\TaskThree.dll
